@@ -10,7 +10,7 @@ function App() {
   return (
     <div id="main">
       
-      <button id="ckick" onClick={handleClick}>Click</button>
+      <button id="click" onClick={handleClick}>Click</button>
       {text===true?<p id="para">Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>:''}
 
 
